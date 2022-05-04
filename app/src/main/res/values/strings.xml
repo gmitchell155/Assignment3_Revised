@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Explore the Met</string>
+    <string name="object_intent_key">objectKey</string>
+    <string name="dialog_message">The developer would like to
+        thank the Metropolitan Museum of Art for providing access
+        to their Creative Commons Zero select datasets and API.
+        For more information on the API please refer to
+        https://metmuseum.github.io/
+        Use of this data and API does not constitute endorsement of
+        this app or the developer by the MET.
+    </string>
+
+    <string name="no_information">Sorry, but it looks like the object you
+        are searching for is no longer available. You can press the back arrow
+        to get information on another object.
+    </string>
+
+    <string name="accession_num">Accession number</string>
+    <string name="department">Department</string>
+    <string name="objectName">Object name</string>
+    <string name="title">Title</string>
+    <string name="medium">Medium</string>
+    <string name="objectDate">Object date</string>
+    <string name="artistName">Artist display name</string>
+    <string name="artistBio">Artist display bio</string>
+    <string name="creditLine">Credit Line</string>
+    <string name="met_button">View information on this object at the Met</string>
+    <string name="toast_message">There is no connection to the network!</string>
+
+    <string name="defaultValue">Text</string>
+    <string name="term">Enter term here</string>
+    <string name="search_button">Search</string>
+
+    <string name="tip">(Search may take a few seconds to return results)</string>
+</resources>
